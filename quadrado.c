@@ -69,7 +69,7 @@ void calcula_coordenada(int num){
 int main()
 {
 
- printf("Um dia isso vai funcionar\n");
+// printf("Um dia isso vai funcionar\n");
 
  int num;
  printf("Digite o numero do ponto o qual deseja saber as coordenadas:");
